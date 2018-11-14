@@ -1,3 +1,3 @@
 # hello-world
 Getting started
-whats the weather today?
+what's happening
